@@ -5,7 +5,7 @@ via url ou ssh :
 
 **git clone git@github.com:grintzdel/boilerplate_DockerMysql.git**
 
-
+**Il faut créer un dossier nommé db à la racine du projet**
 
 **Mise en route du container Docker**
 
