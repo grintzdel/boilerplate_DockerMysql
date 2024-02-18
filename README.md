@@ -31,4 +31,3 @@ Accéder à phpmyadmin :
 
 La connexion à phpmyadmin se fait **automatiquement** (voir fichier docker-compose.yml à partir de la **ligne 28** si l'on veut changer ce comportement).
 
-Une fois des tables/champs créés dans la BDD, cette dernière va venir se créer **automatiquement** dans le dossier **db**. 
